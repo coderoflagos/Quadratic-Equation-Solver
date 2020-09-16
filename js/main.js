@@ -48,7 +48,7 @@ $(window).on('load', function() {
 
 
 	/*------------------
-		Realated courses
+		Related courses
 	--------------------*/
     $('.rc-slider').owlCarousel({
 		autoplay:true,
